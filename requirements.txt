@@ -1,10 +1,2 @@
 fastapi
-uvicorn[standard]
-sqlmodel
-aiofiles
-python-multipart
-pydantic
-python-dotenv
-requests
-openai
-httpx
+uvicorn
